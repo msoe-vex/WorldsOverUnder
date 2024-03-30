@@ -1,3 +1,5 @@
+# include "RobotConfig.h"
+
 #include "main.h"
 
 /////
